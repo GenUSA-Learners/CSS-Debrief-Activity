@@ -73,7 +73,10 @@ figure {
 aside {
 	display: flex;
 	flex-direction: column;
-
+	border: 4px double black;
+	margin: 1em 0;
+	color: rgba(35, 47, 58, 0.05);
+	background-color: rgba(35, 47, 58, 0.05);
 }
 
 /* Table - Concert Schedule Styles */
