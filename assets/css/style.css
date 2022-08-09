@@ -43,7 +43,7 @@ h1 {
 section {
 	display: flex;
 	justify-content: center;
-
+	flex-direction: row;
 	width: 80%;
 	margin: auto;
 }
@@ -54,6 +54,7 @@ section {
 /* About Section Styles */
 #about-sec {
 	display: flex;
+	flex-direction: row;
 
 }
 #about-sec div {
@@ -65,7 +66,7 @@ section {
 figure {
 	display: flex;
 	width: 30%;
-
+	flex-direction: row;
 }
 
 /* Aside Styles */
