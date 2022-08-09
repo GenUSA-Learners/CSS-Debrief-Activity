@@ -89,6 +89,17 @@ aside p{
 	border-bottom: 4px double rgba(0, 0, 0, 0.77);
 	opacity: 0.6;
 }
+aside ul{
+	font-size: 0.9em;
+	margin: 1em;
+	padding: 0 0 0.75em 1em;
+}
+aside ul li a{
+	text-align: justify;
+	color: rgb(35, 47, 58);
+	padding: 0;
+	text-decoration: underline;
+}
 
 /* Table - Concert Schedule Styles */
 #concert-schedule-sec {
