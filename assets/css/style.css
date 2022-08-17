@@ -43,7 +43,6 @@ h1 {
 section {
 	display: flex;
 	justify-content: center;
-	flex-direction: row;
 	width: 80%;
 	margin: auto;
 }
@@ -54,7 +53,7 @@ section {
 /* About Section Styles */
 #about-sec {
 	display: flex;
-	flex-direction: row;
+	flex-direction: column;
 
 }
 #about-sec h2{
@@ -65,15 +64,14 @@ section {
 	padding: 0 2.5em;
 }
 #about-sec div {
-	display: inline-flex;
-		flex-direction: row;
+	display: flex;
 		flex-wrap: nowrap;
 		justify-content: space-evenly;
 }
 figure {
-	display: flex;
+	display: inline-flex;
 	width: 30%;
-	flex-direction: row;
+	flex-direction:column;
 }
 figcaption{
 	font-style: italic ;
