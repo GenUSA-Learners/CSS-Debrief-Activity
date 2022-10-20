@@ -122,10 +122,16 @@ aside ul li a{
 
 /* Table - Concert Schedule Styles */
 #concert-schedule-sec {
-	max-width: 940px;
+	width: 100vw;
 	margin: 0 auto;
 	height: max-content;
+	color: rgb(255, 54, 154);
+	background-color: black;
+	padding: 2em;
 	}
+#concert-schedule-sec h3 {
+	font-size: 2em;
+}
 
 /* Form - Ticket Form Styles */
 form {
