@@ -51,7 +51,7 @@ Skills based review for the Junior Web Developer CSS Introduction lesson.
 		- Copy the entire ```<link rel=...stylesheet">``` link in the pop-up side menu (you may have to widen your screen to view). Then paste the stylesheet link in the index.html, above the local CSS file.
 		- Copy the entire `font-family rule`, and paste in Step 5.
 
-5. In the `body` selector ruleset, add a font-family property with a value of `'Open Sans', sans-serif`
+5. In the `body` selector ruleset, add a font-family property with a value of `'Open Sans', sans-serif` 
 
 #### Style
 
@@ -80,7 +80,7 @@ Skills based review for the Junior Web Developer CSS Introduction lesson.
 
 	- Add a `font-weight` property with a value of `600`
 	- and a `font-size` property with a value of `1.25em`
-	- Add a `background-color` property, with a value of `rgb(35, 47, 58)`
+	- Add a `background-color` property, with a value of `rgb(35, 47, 58)` 
 	- Add a `color` property, with a value of `whitesmoke`
 	- Add a `padding` property, with a value of `0.5em` on all sides
 	- Add a `margin` property, with a value of `0`
@@ -119,11 +119,11 @@ Skills based review for the Junior Web Developer CSS Introduction lesson.
 19. Directly below the `#about-sec h2` ruleset, add an `#about-sec #about-blurb` ruleset:
 	- Add a `padding` property, with a value of `0 2.5em`
 
-20. Locate the `Table - Concert Schedule` in both the `index.html` and `style.css`, as well as in the `browser`
+20. Locate the `Table - Concert Schedule` in both the `index.html` and `style.css`, as well as in the `browser` 
 
 21. In the `#concert-schedule-sec` ruleset:
-	- Add a `color` property, and a value of `rgb(255, 54, 154)`
-	- Add a `background-color` property, with a value of `black`
+	- Add a `color` property, and a value of `rgb(255, 54, 154)` 
+	- Add a `background-color` property, with a value of `black` 
 	- Replace the `max-width` property with the `width` property, and set the value to `100vw`
 	- Add a `padding` property with a value of `2em`;
 
@@ -132,15 +132,15 @@ Skills based review for the Junior Web Developer CSS Introduction lesson.
 
 Last: Continue to modify the colors, borders, and transitions however you like with the remaining elements! Experiment with positioning, margins, padding, user-experience, etc.
 
-*** BONUS ***
+*** BONUS *** 
 
-* Find a website with a list of the movies Harry Styles has been in and hyperlink it to the `See Movies` a tag. Can you get the link to open in a new tab?
+* Find a website with a list of the movies Harry Styles has been in and hyperlink it to the `See Movies` a tag. Can you get the link to open in a new tab? 
 * Link the navigation list items to jump to the corresponding section on the page
 
 
 ### Part 3 - _Pushing_ new changes to repository
 
-* From a _terminal_ navigate to the root directory of the _cloned_ project.
+* From a _terminal_ navigate to the root directory of the _cloned_ project. 
 * From the root directory of the project, execute the following commands:
   * `git add .`
     * Add all files in current directory to the staging area
