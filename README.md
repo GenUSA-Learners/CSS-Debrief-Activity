@@ -18,6 +18,9 @@ A fan page about Harry Styles which includes movies he has acted in, and a list 
 
 This website is for anyone who wants to learn about Harry Styles and wants to know when his next tour dates are
 
+<img width="1667" alt="Screen Shot 2022-12-08 at 6 36 01 PM" src="https://user-images.githubusercontent.com/47063822/206589326-8b5abd11-8622-45a0-b379-719c5accd842.png">
+
+
 ## Installation
 
 git clone the repo by clicking the Code button on github and copying the repo link. 'git clone' and paste the link in your terminal, and 'cd' into the repo name. Once you are in the directory, use the 'code .' to open the project in your preferred editor.
