@@ -20,7 +20,7 @@ This website is for anyone who wants to learn about Harry Styles and wants to kn
 
 ## Installation
 
-copy the the code link on github and git clone it to the directory of your choosing. Once you finish cloning, change the directory (cd) into the cloned project and use the 'code .' to open the project
+git clone the repo by clicking the Code button on github and copying the repo link. 'git clone' and paste the link in your terminal, and 'cd' into the repo name. Once you are in the directory, use the 'code .' to open the project in your preferred editor.
 
 ## Usage
 
