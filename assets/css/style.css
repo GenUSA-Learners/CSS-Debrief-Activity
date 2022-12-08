@@ -4,7 +4,7 @@
 
 body {
 	font-family: 'Open Sans', sans-serif;
-	background-image: linear-gradient(whitesmoke, rgb(35, 47, 58));
+	background-image: linear-gradient(whitesmoke, rgb(136, 181, 224));
 }
 
 h1 {
@@ -15,7 +15,7 @@ h1 {
 nav ul {
 	list-style-type: none;
 	overflow: hidden;
-	background-color: #0f1337;
+	background-color: #797c9f;
 	display: table;
 	width: 100%;
 }
@@ -96,8 +96,7 @@ aside {
 	flex-direction: column;
 	border: 4px double black;
 	margin: 1em 0 auto;
-	color: rgba(35, 47, 58, 0.05);
-	background-color: rgba(35, 47, 58, 0.05);
+	
 
 }
 
@@ -133,7 +132,7 @@ aside ul li a {
 	margin: 0 auto;
 	height: max-content;
 	color: rgb(28, 5, 16);
-	background-color: rgb(206, 212, 194);
+	background-color: rgb(191, 209, 221);
 	padding: 2em;
 	}
 
@@ -158,7 +157,7 @@ margin-left: 12px;
 }
 
 th {
-border: 2px solid #8c6b48;
+border: 2px solid #181818;
 }
 
 table {
@@ -167,6 +166,6 @@ margin: 20px auto;
 }
 
 td {
-border: 2px solid #8c6b48;
+border: 2px solid #1b1a18;
 width: 300px;
 }
