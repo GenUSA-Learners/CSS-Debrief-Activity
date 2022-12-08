@@ -20,6 +20,9 @@ This website is for anyone who wants to learn about Harry Styles and wants to kn
 
 <img width="1667" alt="Screen Shot 2022-12-08 at 6 36 01 PM" src="https://user-images.githubusercontent.com/47063822/206589326-8b5abd11-8622-45a0-b379-719c5accd842.png">
 
+## Technologies
+
+HTML, CSS, Javascript
 
 ## Installation
 
